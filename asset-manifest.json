@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.617654e4.css",
+    "main.js": "/Portfolio/static/js/main.2ca965ac.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/11BookStore.png": "/Portfolio/static/media/11BookStore.5b29a89e46738cb4314c.png",
+    "static/media/skilo.png": "/Portfolio/static/media/skilo.1a8ba02f73e3f7a87348.png",
+    "static/media/nomad-amico.png": "/Portfolio/static/media/nomad-amico.567f999b4e30e55c1ddc.png",
+    "static/media/24ContactBook.png": "/Portfolio/static/media/24ContactBook.e7bce2be665d76c146bf.png",
+    "static/media/31Back-End.png": "/Portfolio/static/media/31Back-End.0c2bede52d71de84baa0.png",
+    "static/media/52weather.png": "/Portfolio/static/media/52weather.d186d08b97dd9432142b.png",
+    "static/media/41TodoList.png": "/Portfolio/static/media/41TodoList.50791215b7b66faa4f21.png",
+    "static/media/demo.png": "/Portfolio/static/media/demo.1fa32e6e0bb2c3d6b469.png",
+    "static/media/62stopwatch.png": "/Portfolio/static/media/62stopwatch.52d9d0b9ca77ae551ab5.png",
+    "index.html": "/Portfolio/index.html",
+    "main.617654e4.css.map": "/Portfolio/static/css/main.617654e4.css.map",
+    "main.2ca965ac.js.map": "/Portfolio/static/js/main.2ca965ac.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.617654e4.css",
+    "static/js/main.2ca965ac.js"
+  ]
+}
