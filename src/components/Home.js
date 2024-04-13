@@ -33,7 +33,7 @@ function Home() {
 
                 <div className='cv'>
                   <button variant="outline-dark text-primary"  >
-                    <a className="mt-2  text-decoration-none" href="https://drive.google.com/file/d/15jwH9PHSIPn9QCEJX6kaKS3r_zzZrBga/view?usp=drivesdk " target="_blank" rel="noreferrer"> My Resume</a>
+                    <a className="mt-2  text-decoration-none" href="https://drive.google.com/file/d/17ZJ401wP-ls8tde2J9SJquYRTbmIfO7A/view?usp=sharing" target="_blank" rel="noreferrer"> My Resume</a>
                   </button>
                 </div>
               </div>
